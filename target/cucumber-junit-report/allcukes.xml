@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="15.833577">
+<testcase classname="Going to Shoop Extension" name="Login to Shoop Extension on Chrome" time="15.833577">
+<system-out><![CDATA[Given I go to chrome with shoop extension...................................passed
+And I click on the Shoop Extension..........................................passed
+Then I input my sweta.tarekar0506@gmail.com and Sweta12.....................passed
+And I click on the SignIn button............................................passed
+When Sign Out button appears Sign In is confirmed...........................passed
+Then Quit the browser.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
